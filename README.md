@@ -13,13 +13,12 @@ CarEase is designed to help users manage their car services efficiently. It allo
 - Email notifications
 
 ## Technologies Used
-- **Backend**: Flask (Python)
+- **Backend**: Flask (Python), Blueprint architecture, Flask-SocketIO, flask-cors
 - **Database**: SQLite
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5, Leaflet.js maps, Socket.IO client
 - **Payment Integration**: M-Pesa (via Daraja API)
 - **Email Notifications**: SMTP2Go
-- **UI Components**: Mantine 
-- **Version Control**: Git
+- **Version Control**: Github
 - **Deployment**: Ngrok for local development and testing of the Daraja API integration
 
 ## Requirements
