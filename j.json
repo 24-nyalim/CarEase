@@ -1,0 +1,441 @@
+{
+  "content": [
+    {
+      "id": "86323de7-84f6-4a4f-9927-b94753092f54",
+      "tdsr": "",
+      "headOffice": {
+        "id": "a353acfa-5340-49ac-8f7c-2f807a87fc2f",
+        "tradingName": "Biz Kubwa",
+        "number": "65583"
+      },
+      "store": {
+        "id": "b9d1f3a1-5380-442a-9d80-d9ffde070604",
+        "name": "BIZ KUBWA STORE",
+        "number": "746312"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1000,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-01T17:29:52.000Z"
+    },
+    {
+      "id": "e9b1a5b2-3996-4c91-a800-276d7aea261d",
+      "tdsr": "",
+      "headOffice": {
+        "id": "a353acfa-5340-49ac-8f7c-2f807a87fc2f",
+        "tradingName": "Biz Kubwa",
+        "number": "65583"
+      },
+      "store": {
+        "id": "b9d1f3a1-5380-442a-9d80-d9ffde070604",
+        "name": "BIZ KUBWA STORE",
+        "number": "746312"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1000,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-01T17:29:52.000Z"
+    },
+    {
+      "id": "08a9e01e-1d76-4a86-aad6-0c1625ad2464",
+      "tdsr": "",
+      "headOffice": {
+        "id": "a353acfa-5340-49ac-8f7c-2f807a87fc2f",
+        "tradingName": "Biz Kubwa",
+        "number": "65583"
+      },
+      "store": {
+        "id": "b9d1f3a1-5380-442a-9d80-d9ffde070604",
+        "name": "BIZ KUBWA STORE",
+        "number": "746312"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1000,
+      "reference": "SHJRONY83290",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-01T17:38:53.000Z"
+    },
+    {
+      "id": "0edac539-b6b1-4acd-a696-0247bda44c24",
+      "tdsr": "",
+      "headOffice": {
+        "id": "a353acfa-5340-49ac-8f7c-2f807a87fc2f",
+        "tradingName": "Biz Kubwa",
+        "number": "65583"
+      },
+      "store": {
+        "id": "b9d1f3a1-5380-442a-9d80-d9ffde070604",
+        "name": "BIZ KUBWA STORE",
+        "number": "746312"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "01", "name": "Fee" },
+      "amount": 4.95,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-01T17:38:53.000Z"
+    },
+    {
+      "id": "fa7586ae-8b34-451e-ada1-2aa0916e632c",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-07T15:48:18.000Z"
+    },
+    {
+      "id": "67ff4300-25fe-4e97-a9e6-499f16da9f79",
+      "tdsr": "",
+      "headOffice": {
+        "id": "a353acfa-5340-49ac-8f7c-2f807a87fc2f",
+        "tradingName": "Biz Kubwa",
+        "number": "65583"
+      },
+      "store": {
+        "id": "b9d1f3a1-5380-442a-9d80-d9ffde070604",
+        "name": "BIZ KUBWA STORE",
+        "number": "746312"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-13T09:36:41.000Z"
+    },
+    {
+      "id": "3eca52c4-c353-4fb3-8bc7-e70aebc6bb0a",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-15T10:15:29.000Z"
+    },
+    {
+      "id": "3ef64e19-7acf-4a4d-8551-8aa133b95369",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-15T10:17:30.000Z"
+    },
+    {
+      "id": "d294fa15-613a-4b3a-8370-e2d0ff074b37",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1.01,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Fail",
+      "datetimeCreated": "2024-08-22T14:36:54.000Z"
+    },
+    {
+      "id": "b8fb4a4f-9387-4c37-ac13-27b47da0e183",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-22T16:35:22.000Z"
+    },
+    {
+      "id": "816a3cf1-0885-4e54-a5c2-286ed1c83367",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-23T13:55:13.000Z"
+    },
+    {
+      "id": "2c63c915-c8ea-4553-b4eb-fdfb63602049",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-23T13:57:41.000Z"
+    },
+    {
+      "id": "989e07f5-d490-4d4d-8e1f-6c2a4e0d0b52",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "3fe4818e-1966-429d-a0ed-8da98f713264",
+        "name": "Lipa na M-Pesa"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 1,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-23T14:03:08.000Z"
+    },
+    {
+      "id": "906f162c-73e7-4344-8794-855a16032e75",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "c1654797-d802-482f-b820-7559299282b2",
+        "name": "Safaricom Prepaid"
+      },
+      "paymentType": { "id": "04", "name": "Payout" },
+      "amount": 10,
+      "reference": "",
+      "agentCommission": 0.7,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-23T14:05:05.000Z"
+    },
+    {
+      "id": "4261aacb-7a18-47a1-a4b7-20c5a51c5e80",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "c1654797-d802-482f-b820-7559299282b2",
+        "name": "Safaricom Prepaid"
+      },
+      "paymentType": { "id": "02", "name": "Commission" },
+      "amount": 0.63,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Success",
+      "datetimeCreated": "2024-08-23T14:05:41.000Z"
+    },
+    {
+      "id": "41abce27-9053-4f0c-bc2e-dc297c540837",
+      "tdsr": "",
+      "headOffice": {
+        "id": "f32d419b-c48c-4982-b3a8-fead39295cba",
+        "tradingName": "Tanda",
+        "number": "00000"
+      },
+      "store": {
+        "id": "a790dd77-f7e3-4533-aa37-adbe0a0c561b",
+        "name": "STORE KUBWA",
+        "number": "340044"
+      },
+      "dfs": {
+        "id": "8f16730e-55e8-4807-8dff-4ef2efd5dfcb",
+        "name": "M-Pesa Customer Withdrawal"
+      },
+      "paymentType": { "id": "05", "name": "Payin" },
+      "amount": 100,
+      "reference": "",
+      "agentCommission": 0,
+      "tandaCommission": 0,
+      "customerFee": 0,
+      "tandaFee": 0,
+      "status": "Fail",
+      "datetimeCreated": "2024-08-23T14:06:44.000Z"
+    }
+  ],
+  "page": { "number": 1, "size": 100, "totalElements": 16, "totalPages": 1 },
+  "query": {
+    "since": ["2024-08-01T12:46:22.100Z"],
+    "till": ["2024-08-24T12:46:22.100Z"]
+  }
+}
