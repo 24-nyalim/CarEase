@@ -12,7 +12,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeXR9nBmfDFY7w0Meq_6i_pH_08KBlFlhqub2hY
 - Book appointments for services 
 - View and manage appointments
 - Pay for services using M-Pesa 
-- Service progress tracking
+- Real time navigation and tracking system
 - Email notifications
 
 ## Technologies Used
